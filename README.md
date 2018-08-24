@@ -13,3 +13,9 @@ Input example : 4 10 100 30 1 72 86 9 45 3 456 EOF
 2) make jar -> installation done!
 
 3) java -jar out/make/sictool.jar -> Run simulator
+
+<div>
+  
+  <img>
+  
+  </div>
