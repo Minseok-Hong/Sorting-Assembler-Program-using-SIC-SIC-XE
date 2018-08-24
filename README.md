@@ -4,7 +4,7 @@ Implement a Sorting Program using SIC/ SIC XE
 
 Receive as keyboard input, a series of number until EOF
 
-Input example : 4 10 100 30 1 EOF
+Input example : 4 10 100 30 1 72 86 9 45 3 456 EOF
 
 <Tool>
 
