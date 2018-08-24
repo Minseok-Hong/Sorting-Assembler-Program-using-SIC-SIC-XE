@@ -15,7 +15,5 @@ Input example : 4 10 100 30 1 72 86 9 45 3 456 EOF
 3) java -jar out/make/sictool.jar -> Run simulator
 
 <div>
-  
-  <img>
-  https://user-images.githubusercontent.com/31812857/44589972-efb0cb80-a7f4-11e8-8513-295f9e8ab162.png
-  </div>
+  <img width = "700" src = "https://user-images.githubusercontent.com/31812857/44589972-efb0cb80-a7f4-11e8-8513-295f9e8ab162.png">
+ </div>
